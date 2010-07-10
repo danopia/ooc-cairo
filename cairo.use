@@ -1,0 +1,8 @@
+Name: cairo
+Version: head
+Variant: danopia
+Origin: git://github.com/danopia/ooc-cairo.git
+Description: libcairo
+Pkgs: cairo
+Includes: cairo.h
+SourcePath: .
